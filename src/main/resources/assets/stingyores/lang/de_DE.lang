@@ -1,0 +1,54 @@
+itemGroup.poorores=Poor Ores
+
+poorores.prefix=dürftiges ORENAME
+poorores.nuggets.prefix=NUGGETNAMEnugget
+poorores.dusts.prefix=kleiner Haufen DUSTNAMEstaub
+
+poorores.material.coal=Kohle
+poorores.material.diamond=Diamant
+poorores.material.emerald=Smaragd
+poorores.material.gold=Gold
+poorores.material.iron=Eisen
+poorores.material.lapis=Lapis Lazuli
+poorores.material.redstone=Redstone
+poorores.material.quartz=Netherquarz
+
+poorores.material.apatite=Apatit
+poorores.material.copper=Kupfer
+poorores.material.tin=Zinn
+
+poorores.material.lead=Blei
+poorores.material.uran=Uran
+
+poorores.material.aluminum=Aluminium
+poorores.material.aluminium=Aluminium
+
+poorores.material.osmium=Osmium
+
+poorores.material.manganese=Mangan
+
+poorores.material.zinc=Zink
+poorores.material.silver=Silber
+poorores.material.platinum=Platin
+
+poorores.material.eximite=Eximite
+poorores.material.meutoite=Meutoite
+poorores.material.desichalkos=Desichalkos
+
+poorores.material.ignatius=Ignatius
+poorores.material.shadowIron=Shadow Iron
+poorores.material.lemurite=Lemurite
+poorores.material.midasium=Midasium
+poorores.material.vyroxeres=Vyroxeres
+poorores.material.ceruclase=Ceruclase
+poorores.material.adluorite=Adluorite
+poorores.material.kalendrite=Kalendrite
+poorores.material.vulcanite=Vulcanite
+poorores.material.sanguinite=Sanguinite
+
+poorores.material.phosphorite=Phosphor
+poorores.material.sulfur=Schwefel
+poorores.material.saltpeter=Saltpeter
+poorores.material.magnesium=Magnesium
+poorores.material.potash=Kalium
+poorores.material.bitumen=Bitumen

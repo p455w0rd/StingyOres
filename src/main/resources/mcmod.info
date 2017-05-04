@@ -1,0 +1,16 @@
+[
+{
+  "modid": "singyores",
+  "name": "Stingy Ores",
+  "description": "Adds ore variants that that drop/smelt to ingots/dust",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "TheRealp455w0rd" ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+] 

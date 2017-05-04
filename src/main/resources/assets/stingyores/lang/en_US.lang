@@ -1,0 +1,54 @@
+itemGroup.stingyores=Stingy Ores
+
+stingyores.prefix=Stingy ORENAME
+stingyores.nuggets.prefix=NUGGETNAME Nugget
+stingyores.dusts.prefix=Tiny pile of DUSTNAME Dust
+
+stingyores.material.coal=Coal
+stingyores.material.diamond=Diamond
+stingyores.material.emerald=Emerald
+stingyores.material.gold=Gold
+stingyores.material.iron=Iron
+stingyores.material.lapis=Lapis Lazuli
+stingyores.material.redstone=Redstone
+stingyores.material.quartz=Nether Quartz
+
+stingyores.material.apatite=Apatite
+stingyores.material.copper=Copper
+stingyores.material.tin=Tin
+
+stingyores.material.lead=Lead
+stingyores.material.uran=Uran
+
+stingyores.material.aluminum=Aluminum
+stingyores.material.aluminium=Aluminium
+
+stingyores.material.osmium=Osmium
+
+stingyores.material.manganese=Manganese
+
+stingyores.material.zinc=Zinc
+stingyores.material.silver=Silver
+stingyores.material.platinum=Platinum
+
+stingyores.material.eximite=Eximite
+stingyores.material.meutoite=Meutoite
+stingyores.material.desichalkos=Desichalkos
+
+stingyores.material.ignatius=Ignatius
+stingyores.material.shadowIron=Shadow Iron
+stingyores.material.lemurite=Lemurite
+stingyores.material.midasium=Midasium
+stingyores.material.vyroxeres=Vyroxeres
+stingyores.material.ceruclase=Ceruclase
+stingyores.material.adluorite=Adluorite
+stingyores.material.kalendrite=Kalendrite
+stingyores.material.vulcanite=Vulcanite
+stingyores.material.sanguinite=Sanguinite
+
+stingyores.material.phosphorite=Phosphorite
+stingyores.material.sulfur=Sulfur
+stingyores.material.saltpeter=Saltpeter
+stingyores.material.magnesium=Magnesium
+stingyores.material.potash=Potash
+stingyores.material.bitumen=Bitumen
